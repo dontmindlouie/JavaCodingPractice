@@ -1,4 +1,4 @@
-package main.java.com.louie.codingpractice.LeetCode;
+package com.louie.codingpractice.LeetCode;
 
 public class LeetCode {
     
